@@ -1,5 +1,5 @@
 import React from "react";
 
-const Dashboard = props => <div>dashboard</div>;
+const Dashboard = props => <section>dashboard</section>;
 
 export default Dashboard;
